@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\bin\Debug\Pastane_Uygulaması.exe.config
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\bin\Debug\Pastane_Uygulaması.exe
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\bin\Debug\Pastane_Uygulaması.pdb
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.Form1.resources
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.exe
+C:\Users\USER01\Desktop\C#\Pastane_Uygulaması\Pastane_Uygulaması\obj\Debug\Pastane_Uygulaması.pdb
